@@ -134,7 +134,7 @@ input:invalid{
 }
 
 input:focus{
-    border-color: #00aaff;
+    border: 3px solid #00aaff;
     box-shadow: 2px 2px 2px lightgrey;
 }
 
